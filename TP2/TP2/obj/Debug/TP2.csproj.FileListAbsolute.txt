@@ -1,0 +1,11 @@
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\bin\Debug\TP2.exe.config
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\bin\Debug\TP2.exe
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\bin\Debug\TP2.pdb
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.csproj.SuggestedBindingRedirects.cache
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.Properties.Resources.resources
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.exe
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.pdb
+D:\Telyuuu\.Semester 4\IntellijRider\TP2\TP2\obj\Debug\TP2.Form1.resources
